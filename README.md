@@ -184,4 +184,6 @@ If you're unfamiliar with any of the tools or technologies used, you can refer t
 - [PostCSS Documentation](https://postcss.org/)
 
 Good luck, and feel free to make any changes or improvements to the project as you see fit!
-
+![Dashboard](https://github.com/khusi0104/ai-safety-dashboard/blob/ad2c9f7298425ec35cbac90ff59b587e16c42028/dashboard.png)
+![alt img](https://github.com/khusi0104/ai-safety-dashboard/blob/ad2c9f7298425ec35cbac90ff59b587e16c42028/2.png)
+![footer](https://github.com/khusi0104/ai-safety-dashboard/blob/ad2c9f7298425ec35cbac90ff59b587e16c42028/footer.png)
